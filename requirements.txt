@@ -1,8 +1,7 @@
 streamlit
 yfinance
-scikit-learn
-matplotlib
 pandas
 numpy
-requests
-textblob
+matplotlib
+scikit-learn
+tensorflow
