@@ -456,8 +456,8 @@ def run_asset(symbol: str,
 st.set_page_config(page_title="Crypto ML Trading Dashboard", layout="wide")
 
 def main():
-    st.title("📈 Crypto ML Trading Dashboard")
-    st.caption("랜덤포레스트 + 캘리브레이션 / 7일 보유 전략 + 임계값 최적화")
+    st.title("📈 Blockchain Quant Lab")
+    st.caption("랜덤포레스트 + 캘리브레이션 / 5일 보유 전략 + 임계값 최적화")
 
     # ---- 사이드바 설정 (기준일은 1개만) ----
     with st.sidebar:
